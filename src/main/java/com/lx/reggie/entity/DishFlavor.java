@@ -16,7 +16,7 @@ public class DishFlavor implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
-    // 主键
+    // 主键 在 hot-fix 上修改的
     private Long id;
 
 
